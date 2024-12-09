@@ -1,0 +1,5 @@
+dat/train/
+dat/val/
+__pycache__/
+.venv/
+*.bin
